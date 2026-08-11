@@ -18,12 +18,6 @@ Atualmente atuo como Desenvolvedor Backend, aplicando isso na prática com integ
 - 🤝 Aberto a oportunidades de **estágio em desenvolvimento backend**
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
-</div>
-
 ###
 
 ## 🛠️ Tech Stack
