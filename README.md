@@ -19,6 +19,11 @@ Atualmente atuo como Desenvolvedor Backend, aplicando isso na prática com integ
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&theme=tokyonight" height="150" alt="languages graph" />
+</div>
+
 ###
 
 ## 🛠️ Tech Stack
@@ -35,6 +40,6 @@ Atualmente atuo como Desenvolvedor Backend, aplicando isso na prática com integ
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="10" />
 </div>
