@@ -1,12 +1,40 @@
-#  João Abreu
+<h1 align="center">Olá, sou João 👋</h1>
+<h3 align="center">Desenvolvedor Backend Java | Spring Boot • Node.js • APIs REST</h3>
 
-**`Estudante de Ciência da Computação`**
+<p align="center">
+  🎓 Ciência da Computação — Universidade Veiga de Almeida (UVA), Rio de Janeiro
+</p>
 
-Estudante de CS na Universidade Veiga de Almeida (UVA), Rio de Janeiro, com previsão de formatura em 2029. Venho desenvolvendo projetos em Java, Python e JavaScript, com foco em boas práticas de programação (Clean Code, OOP) e versionamento com Git/GitHub. Atualmente trabalhando em projetos acadêmicos e pessoais, buscando oportunidades para aplicar e expandir esses conhecimentos na prática.
+###
 
+## 💡 Sobre mim
 
----
+Desenvolvedor Backend Java com base sólida em Spring Boot, modelagem de dados e boas práticas de código, construída em projetos práticos como um sistema de gestão de vagas com PostgreSQL, JPA/Hibernate e Maven, além de cursos intensivos pela Alura e Rocketseat. Essa formação me ensinou a pensar antes de codificar: entender bem o problema, modelar as entidades com cuidado e buscar soluções limpas.
 
-### 🧰 Languages and Tools
+Atualmente atuo como Desenvolvedor Backend, aplicando isso na prática com integrações via API, persistência em PostgreSQL e sistemas em Node.js — o que me trouxe uma visão combinada entre lógica de negócio, dados e entrega de produto real.
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" /> <br />
+- 🔭 Foco atual: backend em Java/Spring Boot e Node.js
+- 🌱 Evoluindo em Docker e boas práticas de Clean Code
+- 🤝 Aberto a oportunidades de **estágio em desenvolvimento backend**
+
+###
+
+###
+
+## 🛠️ Tech Stack
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+  <img width="10" />
+</div>
