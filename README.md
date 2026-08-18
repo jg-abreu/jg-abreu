@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou João 👋</h1>
-<h3 align="center">Desenvolvedor Backend Java | Spring Boot • Node.js • APIs REST</h3>
+<h3 align="center">Desenvolvedor Backend Java | Spring Boot • APIs REST</h3>
 
 <p align="center">
   🎓 Ciência da Computação — Universidade Veiga de Almeida (UVA), Rio de Janeiro
@@ -13,7 +13,7 @@ Desenvolvedor Backend Java com base sólida em Spring Boot, modelagem de dados e
 
 Atualmente atuo como Desenvolvedor Backend, aplicando isso na prática com integrações via API, persistência em PostgreSQL e sistemas em Node.js — o que me trouxe uma visão combinada entre lógica de negócio, dados e entrega de produto real.
 
-- 🔭 Foco atual: backend em Java/Spring Boot e Node.js
+- 🔭 Foco atual: backend em Java/Spring Boot
 - 🌱 Evoluindo em Docker e boas práticas de Clean Code
 - 🤝 Aberto a oportunidades de **estágio em desenvolvimento backend**
 
@@ -25,8 +25,6 @@ Atualmente atuo como Desenvolvedor Backend, aplicando isso na prática com integ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
   <img width="10" />
