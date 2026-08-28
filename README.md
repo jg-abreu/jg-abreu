@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm João Abreu</h1> <h3 align="center"> Back-end Developer | Web Development | Cloud Computing | Network Infrastructure </h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=lisanogueira&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<h1 align="center">Hi, I'm João Abreu</h1> <h3 align="center"> Back-end Developer | Web Development </h3> <p align="center"> </p>
 
 
 ```dart
