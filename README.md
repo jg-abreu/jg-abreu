@@ -1,20 +1,15 @@
 <h1 align="center">Hi, I'm João Abreu</h1>
 <h3 align="center">Back-end Developer | Java & Spring Boot | Computer Science Student</h3>
 
-```dart
-var Abreu = {
-  'country': 'Brazil',
-  'city': 'Rio de Janeiro, Rio de Janeiro',
-  'university': 'Universidade Veiga de Almeida',
-  'languages': ['Portuguese-BR', 'English'],
-  'interests': ['Back-end', 'Web Development', 'Cloud Computing'],
-  'hobbies': ['Studies & Reading', 'Programming', 'Sports'],
-};
-```
+I've been waiting for you... *(glad you finally made it.)*
+
+I'm João Abreu, a 19-year-old Brazilian back-end developer and Computer Science student at Universidade Veiga de Almeida, in Rio de Janeiro.
+
+These days I build back-end systems with Java and Spring Boot, with a growing interest in software architecture and cloud.
 
 ## About Me
 
-I'm a Computer Science student from Brazil who believes great software is built before the first line of code is even written: understanding the problem, modeling the domain carefully and designing clean architectures.
+I believe great software is built before the first line of code is even written: understanding the problem, modeling the domain carefully and designing clean architectures.
 
 I work mainly in the Java ecosystem, building REST APIs with Spring Boot, JPA/Hibernate and PostgreSQL, turning complex requirements into functional, maintainable systems.
 
