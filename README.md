@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm João Abreu</h1>
 <h3 align="center">Back-end Developer | Java & Spring Boot | Computer Science Student</h3>
 
-I've been waiting for you... *(glad you finally made it.)*
+Hello, world! *(yes, I had to.)*
 
 I'm João Abreu, a 19-year-old Brazilian back-end developer and Computer Science student at Universidade Veiga de Almeida, in Rio de Janeiro. My path into tech started somewhere unexpected: studying for the entrance exam of the Brazilian Naval Academy (Escola Naval). That's where my passion for math was born, and with it, my passion for technology.
 
