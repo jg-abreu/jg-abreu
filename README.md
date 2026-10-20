@@ -41,4 +41,4 @@ Open to my first back-end internship
   <a href="https://dev.to/joao_abreu" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="dev.to" /></a>
 </p>
 
-<p align="center"><i>The biggest risk is not taking any risk... In a world that is changing quickly, the only strategy that is guaranteed to fail is not taking risks. — Mark Zuckerberg, Founder & CEO at Meta</i></p>
+<p align="center"><i>"The biggest risk is not taking any risk... In a world that is changing quickly, the only strategy that is guaranteed to fail is not taking risks." — Mark Zuckerberg, Founder & CEO at Meta</i></p>
