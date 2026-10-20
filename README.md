@@ -3,7 +3,7 @@
 
 I've been waiting for you... *(glad you finally made it.)*
 
-I'm João Abreu, a 19-year-old Brazilian back-end developer and Computer Science student at Universidade Veiga de Almeida, in Rio de Janeiro.
+I'm João Abreu, a 19-year-old Brazilian back-end developer and Computer Science student at Universidade Veiga de Almeida, in Rio de Janeiro. My path into tech started somewhere unexpected: studying for the entrance exam of the Brazilian Naval Academy (Escola Naval). That's where my passion for math was born, and with it, my passion for technology.
 
 These days I build back-end systems with Java and Spring Boot, with a growing interest in software architecture and cloud.
 
