@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm João Abreu</h1>
 <h3 align="center">Back-end Developer | Java & Spring Boot | Computer Science Student</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jg-abreu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 ```dart
 var Abreu = {
@@ -39,16 +36,16 @@ Open to my first back-end internship
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-<div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=jg-abreu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="GitHub streak" />
-</div>
-
 ## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-abreuuu" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" /></a>
   &nbsp;
   <a href="mailto:jgabreudev@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Email" /></a>
+  &nbsp;
+  <a href="https://x.com/jgabreudev" target="_blank"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="X" /></a>
+  &nbsp;
+  <a href="https://dev.to/joao_abreu" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="dev.to" /></a>
   &nbsp;
   <a href="https://linktr.ee/dev_abreu" target="_blank"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=43E55E&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="Linktree" /></a>
 </p>
