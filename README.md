@@ -41,13 +41,9 @@ Open to my first back-end internship
 <p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-abreuuu" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:jgabreudev@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="Email" /></a>
-  &nbsp;
   <a href="https://x.com/jgabreudev" target="_blank"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="X" /></a>
   &nbsp;
   <a href="https://dev.to/joao_abreu" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="dev.to" /></a>
-  &nbsp;
-  <a href="https://linktr.ee/dev_abreu" target="_blank"><img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=43E55E&logoColor=black&labelColor=&style=for-the-badge" height="28" alt="Linktree" /></a>
 </p>
 
 <p align="center"><i>"Great software is built before the first line of code is even written."</i></p>
