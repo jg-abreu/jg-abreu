@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm João Abreu</h1>
 <h3 align="center">Back-end Developer | Java & Spring Boot | Computer Science Student</h3>
+<p align="center">Welcome to my GitHub! Here you'll find the projects I build while learning back-end development.</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jg-abreu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -24,6 +25,7 @@ I work mainly in the Java ecosystem, building REST APIs with Spring Boot, JPA/Hi
 - 🔭 Building **v2.0 of my [Tutoring Management System](https://github.com/jg-abreu/tutoring-management-system)**: authentication, user roles and `GET` endpoints
 - 🤝 Taking part in **inHub**, the first team project of the Papo de Dev RJ community
 - 🧠 Practicing data structures and algorithms on [LeetCode](https://github.com/jg-abreu/leetcode), in Java
+- 🌱 Currently learning **C++** at university and **AI agents and automation** through a study roadmap
 - 📚 Always learning through courses, projects and consistent practice
 - 🎯 Open to my **first back-end internship**
 
@@ -50,7 +52,10 @@ I work mainly in the Java ecosystem, building REST APIs with Spring Boot, JPA/Hi
 | [**FIPE Price Lookup**](https://github.com/jg-abreu/fipe-price-lookup-java) | CLI that queries Brazil's FIPE vehicle price table for every model year and exports results to JSON | Java · Spring Boot · Jackson |
 | [**ScreenSound**](https://github.com/jg-abreu/screensound-java) | Command-line music catalog with JPA relationships and the Wikipedia API | Spring Data JPA · PostgreSQL |
 
+## GitHub Stats
+
 <div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jg-abreu&show_icons=true&include_all_commits=true&theme=dracula&hide_border=false&border_radius=5" alt="GitHub stats" />
   <img height="160" src="https://streak-stats.demolab.com?user=jg-abreu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="GitHub streak" />
 </div>
 
