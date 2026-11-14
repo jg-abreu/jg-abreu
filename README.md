@@ -24,13 +24,13 @@ Looking for a back-end intern? [Let's talk](https://joaoabreu.dev/en/contact/).
 ## Also in My Toolbox
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="JPA/Hibernate" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-  <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&labelColor=black&logo=hibernate&logoColor=59666C" alt="JPA/Hibernate" />
+  <img src="https://img.shields.io/badge/-Python-4B77BE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B77BE" alt="Python" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Astro-BC52EE?style=for-the-badge&labelColor=black&logo=astro&logoColor=BC52EE" alt="Astro" />
+  <img src="https://img.shields.io/badge/-nginx-009639?style=for-the-badge&labelColor=black&logo=nginx&logoColor=009639" alt="nginx" />
+  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&labelColor=black&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
 </p>
 
 ## Connect With Me
