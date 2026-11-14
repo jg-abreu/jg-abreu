@@ -16,13 +16,20 @@ Looking for a back-end intern? [Let's talk](https://joaoabreu.dev/en/contact/).
 ## Also in My Toolbox
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&labelColor=black&logo=hibernate&logoColor=59666C" alt="JPA/Hibernate" />
-  <img src="https://img.shields.io/badge/-Python-4B77BE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B77BE" alt="Python" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Astro-BC52EE?style=for-the-badge&labelColor=black&logo=astro&logoColor=BC52EE" alt="Astro" />
-  <img src="https://img.shields.io/badge/-nginx-009639?style=for-the-badge&labelColor=black&logo=nginx&logoColor=009639" alt="nginx" />
-  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&labelColor=black&logo=cloudflare&logoColor=F38020" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&labelColor=black&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?style=for-the-badge&amp;labelColor=black&amp;logo=spring&amp;logoColor=6DB33F" alt="Spring Data JPA" />
+  <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&amp;labelColor=black&amp;logo=hibernate&amp;logoColor=59666C" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/-Bean%20Validation-E8A33D?style=for-the-badge&amp;labelColor=black&amp;logo=hibernate&amp;logoColor=E8A33D" alt="Bean Validation" />
+  <img src="https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&amp;labelColor=black&amp;logo=apachemaven&amp;logoColor=C71A36" alt="Maven" />
+  <img src="https://img.shields.io/badge/-JUnit%205-25A162?style=for-the-badge&amp;labelColor=black&amp;logo=junit5&amp;logoColor=25A162" alt="JUnit 5" />
+  <img src="https://img.shields.io/badge/-Mockito-78A641?style=for-the-badge&amp;labelColor=black&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNSIgZmlsbD0iIzc4QTY0MSIvPjxwYXRoIGQ9Ik01IDE4VjZoMi42bDQuNCA1LjlMMTYuNCA2SDE5djEyaC0yLjl2LTcuMUwxMiAxNi4zbC00LjEtNS40VjE4eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg%3D%3D" alt="Mockito" />
+  <img src="https://img.shields.io/badge/-Flyway-CC0200?style=for-the-badge&amp;labelColor=black&amp;logo=flyway&amp;logoColor=CC0200" alt="Flyway" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&amp;labelColor=black&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&amp;labelColor=black&amp;logo=githubactions&amp;logoColor=2088FF" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-nginx-009639?style=for-the-badge&amp;labelColor=black&amp;logo=nginx&amp;logoColor=009639" alt="nginx" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&amp;labelColor=black&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&amp;labelColor=black&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&amp;labelColor=black&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/-Python-4B77BE?style=for-the-badge&amp;labelColor=black&amp;logo=python&amp;logoColor=4B77BE" alt="Python" />
 </p>
 
 ## Connect With Me
