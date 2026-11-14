@@ -4,14 +4,6 @@
   </a>
 </p>
 
-Hello, world! *(yes, I had to.)*
-
-I'm 19 and my path into tech started somewhere unexpected: studying for the entrance exam of the Brazilian Naval Academy (Escola Naval). That's where my passion for math was born, and with it, my passion for technology. Today my growing interests are software architecture and cloud.
-
-## About Me
-
-I believe great software is built before the first line of code is even written: understanding the problem, modeling the domain carefully and designing clean architectures. What I enjoy most is turning complex requirements into functional, maintainable systems.
-
 ## What I'm Building
 
 - **[Tutoring Management System](https://github.com/jg-abreu/tutoring-management-system)**: building v2.0 of an academic tutoring platform with admin approvals, sessions with limited seats and an automatic waitlist.
