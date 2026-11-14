@@ -36,11 +36,11 @@ Looking for a back-end intern? [Let's talk](https://joaoabreu.dev/en/contact/).
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-abreuuu" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-abreuuu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;labelColor=black&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzAwNzdCNSIvPjxyZWN0IHg9IjUiIHk9IjkuNSIgd2lkdGg9IjMiIGhlaWdodD0iOS41IiBmaWxsPSIjZmZmIi8%2BPGNpcmNsZSBjeD0iNi41IiBjeT0iNi4zIiByPSIxLjgiIGZpbGw9IiNmZmYiLz48cGF0aCBkPSJNMTAuNSA5LjVoMi45djEuM2MuNS0uOSAxLjctMS42IDMuMi0xLjYgMi42IDAgMy40IDEuNyAzLjQgNC4yVjE5aC0zdi01YzAtMS4zLS4zLTIuMy0xLjYtMi4zLTEuNCAwLTEuOSAxLTEuOSAyLjN2NWgtM3oiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D" height="28" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="https://x.com/jgabreudev" target="_blank"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="X" /></a>
+  <a href="https://x.com/jgabreudev" target="_blank"><img src="https://img.shields.io/badge/-X-2F3336?style=for-the-badge&labelColor=black&logo=x&logoColor=white" height="28" alt="X" /></a>
   &nbsp;
-  <a href="https://dev.to/joao_abreu" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="dev.to" /></a>
+  <a href="https://dev.to/joao_abreu" target="_blank"><img src="https://img.shields.io/badge/-dev.to-3B49DF?style=for-the-badge&labelColor=black&logo=devdotto&logoColor=white" height="28" alt="dev.to" /></a>
 </p>
 
 <p align="center"><i>"The biggest risk is not taking any risk... In a world that is changing quickly, the only strategy that is guaranteed to fail is not taking risks." — Mark Zuckerberg, Founder & CEO at Meta</i></p>
