@@ -41,5 +41,3 @@ Looking for a back-end intern? [Let's talk](https://joaoabreu.dev/en/contact/).
   &nbsp;
   <a href="https://dev.to/joao_abreu" target="_blank"><img src="https://img.shields.io/badge/-dev.to-3B49DF?style=for-the-badge&labelColor=black&logo=devdotto&logoColor=white" height="28" alt="dev.to" /></a>
 </p>
-
-<p align="center"><i>"The biggest risk is not taking any risk... In a world that is changing quickly, the only strategy that is guaranteed to fail is not taking risks." — Mark Zuckerberg, Founder & CEO at Meta</i></p>
