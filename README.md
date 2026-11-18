@@ -9,7 +9,7 @@
 - **[Tutoring Management System](https://github.com/jg-abreu/tutoring-management-system)**: building v2.0 of an academic tutoring platform with admin approvals, sessions with limited seats and an automatic waitlist.
 - **[My portfolio](https://joaoabreu.dev)**: an Astro site and a Spring Boot API ([portfolio-api](https://github.com/jg-abreu/portfolio-api)) running on my own server behind Cloudflare, with GitHub sign-in, an AI assistant and the live card above.
 - **inHub**: the first team project of the Papo de Dev RJ community.
-- **[LeetCode](https://github.com/jg-abreu/leetcode)**: practicing data structures and algorithms in Java.
+- **[Algorithms and Data Structures](https://github.com/jg-abreu/algorithms-and-data-structures)**: my daily practice of algorithms and data structures problems in Java and Python.
 
 Looking for a back-end intern? [Let's talk](https://joaoabreu.dev/en/contact/).
 
