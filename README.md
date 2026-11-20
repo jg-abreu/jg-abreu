@@ -6,7 +6,7 @@
 
 ## What I'm Building
 
-- **[Tutoring Management System](https://github.com/jg-abreu/tutoring-management-system)**: building v2.0 of an academic tutoring platform with admin approvals, sessions with limited seats and an automatic waitlist.
+- **[Tutoring Management API](https://github.com/jg-abreu/tutoring-management-api)**: building v2.0 of a Spring Boot REST API for academic tutoring, with JWT login, admin approvals, sessions with limited seats and an automatic waitlist ([React client](https://github.com/jg-abreu/tutoring-management)).
 - **[My portfolio](https://joaoabreu.dev)**: an Astro site and a Spring Boot API ([portfolio-api](https://github.com/jg-abreu/portfolio-api)) running on my own server behind Cloudflare, with GitHub sign-in, an AI assistant and the live card above.
 - **inHub**: the first team project of the Papo de Dev RJ community.
 - **[Algorithms and Data Structures](https://github.com/jg-abreu/algorithms-and-data-structures)**: my daily practice of algorithms and data structures problems in Java and Python.
